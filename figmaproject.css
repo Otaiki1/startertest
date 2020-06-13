@@ -1,0 +1,375 @@
+body{
+    background-color: #E5E5E5;
+}
+
+.main{
+    position: absolute;
+    width: 1440px;
+    height: 920px;
+    left: 80px;
+    top: 152px;
+
+    background: #FFFFFF;
+    box-shadow: 16px 16px 32px rgba(0, 0, 0, 0.1);
+}
+
+.vector1{
+    position: absolute;
+    height: 0px;
+    left: 2px;
+    right: 1px;
+    top: 79px;
+
+    border: 1px solid #EEEEEE;
+}
+
+.rectangle6{
+    position: absolute;
+    height: 79px;
+    left: 0px;
+    right: 1px;
+    top: 0px;
+
+    background: #FFFFFF;
+}
+
+.headword{
+    position: absolute;
+    height: 79px;
+    left: 80px;
+    right: 1173px;
+    top: 0px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+}
+
+.products{
+    position: absolute;
+    height: 79px;
+    left: 518px;
+    right: 846px;
+    top: 0px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+}
+
+.offers{
+    position: absolute;
+    height: 79px;
+    left: 626px;
+    right: 738px;
+    top: 0px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+}
+
+.stores{
+    position: absolute;
+    height: 79px;
+    left: 737px;
+    right: 627px;
+    top: -1px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+
+}
+
+.help{
+    position: absolute;
+    height: 79px;
+    left: 847px;
+    right: 517px;
+    top: 0px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+
+}
+
+.signup{
+    position: absolute;
+    height: 79px;
+    left: 1176px;
+    right: 189px;
+    top: 0px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+}
+
+.login{
+    position: absolute;
+    height: 79px;
+    left: 1283px;
+    right: 82px;
+    top: 0px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+}
+
+.rectangle2{
+    position: absolute;
+    width: 515px;
+    height: 711px;
+    left: 80px;
+    top: 110px;
+    
+    background: #EEEEEE;
+}
+
+.rectangle1{
+    position: absolute;
+    width: 296px;
+    height: 344px;
+    left: 627px;
+    top: 110px;
+    
+    background: #EEEEEE;
+}
+
+.rectangle4{
+    position: absolute;
+    width: 406px;
+    height: 344px;
+    left: 955px;
+    top: 110px;
+    
+    background: #EEEEEE;
+}
+
+.rectangle3{
+    position: absolute;
+    width: 734px;
+    height: 335px;
+    left: 626px;
+    top: 486px;
+    
+    background: #EEEEEE;
+}
+
+.image2{
+    position: absolute;
+    width: 403px;
+    height: 407px;
+    left: 136px;
+    top: 262px;
+
+
+}
+
+
+/* .image1{
+    position: absolute;
+    width: 186px;
+    height: 186px;
+    left: 686px;
+    top: 177px;
+    
+    background: url("image.png");
+} */
+.image1{
+    position: absolute;
+    width: 186px;
+    height: 186px;
+    left: 686px;
+    top: 177px;
+
+
+}
+
+.image4{
+    position: absolute;
+    width: 198px;
+    height: 198px;
+    left: 1059px;
+    top: 183px;
+
+    background: url("image.png");
+}
+
+
+.image3{
+    position: absolute;
+    width: 468px;
+    height: 274px;
+    left: 759px;
+    top: 530px;
+
+    background: url("image.png");
+}
+
+.recliners{
+    position: absolute;
+    width: 97px;
+    height: 29px;
+    left: 94px;
+    top: 775px;
+    
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    
+    
+    color: #333333;
+    
+}
+
+.tablelamp{
+    position: absolute;
+    width: 132px;
+    height: 29px;
+    left: 648px;
+    top: 408px;
+    
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    
+    
+    color: #333333
+}
+
+.officechair{
+    position: absolute;
+    width: 139px;
+    height: 29px;
+    left: 975px;
+    top: 408px;
+    
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    
+    
+    color: #333333;
+    
+}
+
+.sofas{
+    position: absolute;
+    width: 58px;
+    height: 29px;
+    left: 639px;
+    top: 775px;
+    
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    
+    
+    color: #333333;
+    
+}
+
+.reclimage{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 199px;
+    top: 780px;
+
+    background: url(image.png);
+}
+
+.tablimage{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 789px;
+    top: 413px;
+
+    background: url(image.png);
+}
+
+.offimage{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 1127px;
+    top: 413px;
+
+    background: url(image.png);
+}
+
+.sofimage{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 704px;
+    top: 780px;
+
+    background: url(image.png);
+}
